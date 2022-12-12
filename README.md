@@ -1,4 +1,4 @@
-# Mompi API
+# Derose API
 this is a API for create a ride and pay it, it's necesary have install the next dependencies:
 
 - ruby 3.0
